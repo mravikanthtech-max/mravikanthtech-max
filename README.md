@@ -1,7 +1,7 @@
 ## 01001000 01101001 Anyhow Hi (its binary)
-- <img width="400" height="498" alt="HiHelloThereGIF" src="https://github.com/user-attachments/assets/93d7f775-f9c1-478a-9e93-07c0d8dbc92c" />
+- <img width="100" height="100" alt="HiHelloThereGIF" src="https://github.com/user-attachments/assets/93d7f775-f9c1-478a-9e93-07c0d8dbc92c" />
 ## Ravikanth M here 😁😁😁
-<!--
+- A 
 **mravikanthtech-max/mravikanthtech-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
