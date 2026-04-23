@@ -1,4 +1,4 @@
-##01001000 01101001 Anyhow Hi (its binary)
+## 01001000 01101001 Anyhow Hi (its binary)
 
 <!--
 **mravikanthtech-max/mravikanthtech-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
