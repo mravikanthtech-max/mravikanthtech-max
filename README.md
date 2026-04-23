@@ -13,13 +13,13 @@
   Basically interested in to deploy code into the AWS,Gooooogle Cloud,or Microoooosoft Azureeee abyss and hope it
   doesnt come back with a bill that doesnt eat my money in pocket(because thats the last hope😁😁😁😁😁)
 
-#<img width="200" height="100" alt="AwsAwsMemeGIF" src="https://github.com/user-attachments/assets/fe0cadc0-01b1-4ff3-bdf5-66718e59c0c5" /> 
+# <img width="200" height="100" alt="AwsAwsMemeGIF" src="https://github.com/user-attachments/assets/fe0cadc0-01b1-4ff3-bdf5-66718e59c0c5" /> 
 
 - Exploring quantum realm where my code is simultaneously working and broken until someone actually looks at it.
   I dont debug; just collapse the wavefunction and hope for the best. Entangling qubits because linear logic was
   too boring
 
-- <img width="200" height="100" alt="QuantumaniaAntManGIF" src="https://github.com/user-attachments/assets/0edac421-7462-4860-b7dd-7d1c948e3244" /> <img width="200" height="100" alt="IssoEMecanicaQuanticaComplicadoGIF" src="https://github.com/user-attachments/assets/f3949c11-c435-4d9d-a430-e99320cfd7f9" />
+# <img width="200" height="100" alt="QuantumaniaAntManGIF" src="https://github.com/user-attachments/assets/0edac421-7462-4860-b7dd-7d1c948e3244" /> <img width="200" height="100" alt="IssoEMecanicaQuanticaComplicadoGIF" src="https://github.com/user-attachments/assets/f3949c11-c435-4d9d-a430-e99320cfd7f9" />
 
 # So what i wanna say is
 - Learning python
