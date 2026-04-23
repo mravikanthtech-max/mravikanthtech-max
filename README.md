@@ -7,5 +7,5 @@
 - Wrestling with indentation errors until 3AM because apparently, whitespace is a personality trait. Currently teaching Python to do my bidding.
   So far it has learnt how to crash with style.
 
-# <img width="120" height="220" alt="PythonPythonMyBelothedGIF" src="https://github.com/user-attachments/assets/1c20fb51-cf9a-41ce-b0e1-ce442bdd446b" />
+# <img width="400" height="300" alt="PythonPythonMyBelothedGIF" src="https://github.com/user-attachments/assets/1c20fb51-cf9a-41ce-b0e1-ce442bdd446b" />
 
